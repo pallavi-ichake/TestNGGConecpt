@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-      <class name="Jenkinsa.PassingParamterThroughMaven"/>
+      <class name="Jenkinsa.PassingParamterTihroughMaven"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -16,7 +16,7 @@ public class DataProviderTN
 	{
 		Object[][] fbData = new Object[2][2];
 		fbData[0][0] = "Abhijeet";
-		fbData[0][1] = "Ichake";
+		fbData[0][1] = "Abhipal";
 		fbData[1][0] = "Deshmukha";
 		fbData[1][1] = "Ichake";
 		return fbData;
